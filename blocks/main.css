@@ -1,0 +1,26 @@
+.main {
+  max-width: 990px;
+  display: flex;
+  flex-direction: column;
+  margin: 92px auto;
+  align-items: center;
+}
+
+.main__title {
+  max-width: 720px;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 54px;
+  line-height: 1.1;
+}
+
+.main__text {
+  max-width: 720px;
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.main__second_text {
+  max-width: 720px;
+  font-size: 16px;
+  line-height: 1.5;
+}
